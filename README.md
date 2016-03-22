@@ -1,5 +1,5 @@
 # What is it?
-This program will send ONE simple GCM message to your app providing you followed the setup guide below. It supports both topic and device unique messages.
+This program will send ONE simple GCM message to your app providing you followed the setup guide below. It supports both topic and device unique messages. This program also gives you the ability to send the notification content with GCM instead of implementing this in the app.
 
 This program was created by modifying Google's own startup template that can be found by following the link below.
 https://developers.google.com/cloud-messaging/android/start
