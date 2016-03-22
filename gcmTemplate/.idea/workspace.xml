@@ -26,7 +26,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kits/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58181816">
+            <state vertical-scroll-proportion="0.4181818">
               <caret line="50" column="87" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -588,12 +588,12 @@
       <option name="number" value="Default" />
       <updated>1458639624596</updated>
       <workItem from="1458639627793" duration="2505000" />
-      <workItem from="1458646689821" duration="1679000" />
+      <workItem from="1458646689821" duration="1888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4184000" />
+    <option name="totallyTimeSpent" value="4393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -656,7 +656,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kits/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58181816">
+        <state vertical-scroll-proportion="0.4181818">
           <caret line="50" column="87" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
