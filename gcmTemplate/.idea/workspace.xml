@@ -26,10 +26,11 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kits/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.018181818">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.58181816">
+              <caret line="50" column="87" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="docComment;class#Main#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -587,12 +588,12 @@
       <option name="number" value="Default" />
       <updated>1458639624596</updated>
       <workItem from="1458639627793" duration="2505000" />
-      <workItem from="1458646689821" duration="18000" />
+      <workItem from="1458646689821" duration="1679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2523000" />
+    <option name="totallyTimeSpent" value="4184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -641,6 +642,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -654,10 +656,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kits/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.018181818">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.58181816">
+          <caret line="50" column="87" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
